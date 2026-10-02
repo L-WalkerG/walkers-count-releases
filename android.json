@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.0/WalkersCount-1.0.0.apk",
-  "notes": "İlk imzalı versiya: LETHEA imzası, yeni ikon, avtomatik yeniləmə"
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.1/WalkersCount-1.0.1.apk",
+  "notes": "Əlavə et düyməsi: mövcud sayımın üstünə gəlmək olur. Klaviatura standart 3x3 oldu."
 }
