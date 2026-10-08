@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.3/WalkersCount-1.0.3.apk",
-  "notes": "Toyuq məhsulları ədədlə sayılır"
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.4/WalkersCount-1.0.4.apk",
+  "notes": "Sayım avtomatik yadda saxlanılır, versiya ekranda"
 }
