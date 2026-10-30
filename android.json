@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.4/WalkersCount-1.0.4.apk",
-  "notes": "Sayım avtomatik yadda saxlanılır, versiya ekranda"
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.5/W-Store-1.0.5.apk",
+  "notes": "Offline-dan sonra sayımlar avtomatik göndərilir"
 }
