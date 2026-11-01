@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.5/W-Store-1.0.5.apk",
-  "notes": "Offline-dan sonra sayımlar avtomatik göndərilir"
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.6/W-Store-1.0.6.apk",
+  "notes": "Görünən çıxış düymələri, sync statusu ayrıca sətirdə"
 }
