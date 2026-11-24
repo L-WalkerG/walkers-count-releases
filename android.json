@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.6/W-Store-1.0.6.apk",
-  "notes": "Görünən çıxış düymələri, sync statusu ayrıca sətirdə"
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "url": "https://github.com/L-WalkerG/walkers-count-releases/releases/download/android-v1.0.7/W-Store-1.0.7.apk",
+  "notes": "İnternet qayıdanda gözləyən sayımlar artıq özü göndərilir (tətbiqi yenidən açmaq lazım deyil)"
 }
